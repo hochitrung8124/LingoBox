@@ -1,0 +1,9 @@
+# Build output
+bin/
+obj/
+
+# VS cache
+.vs/
+
+# App settings
+appsettings*.json
