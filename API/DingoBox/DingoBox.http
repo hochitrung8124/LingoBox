@@ -1,0 +1,6 @@
+@DingoBox_HostAddress = http://localhost:5114
+
+GET {{DingoBox_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
