@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "DingoBox.Controllers.DictionaryEntryController",
+    "Method": "GetWordAsync",
+    "RelativePath": "api/DictionaryEntry",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "word",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DingoBox.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

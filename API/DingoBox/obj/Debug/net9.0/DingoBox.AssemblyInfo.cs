@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DingoBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14a7955a7ccef9dc3b25ead761ffb5ba3c8995a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fc78949a57664dd646594e92643a17028ea9f92")]
 [assembly: System.Reflection.AssemblyProductAttribute("DingoBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DingoBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
