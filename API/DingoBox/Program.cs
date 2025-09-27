@@ -1,5 +1,8 @@
 ﻿
+using API.Services;
 using DingoBox.Data;
+using DingoBox.Models;
+using DingoBox.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace DingoBox
@@ -18,6 +21,7 @@ namespace DingoBox
     options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
                      new MySqlServerVersion(new Version(8, 0, 30))));
 
+            builder.Services.AddScoped<IDictionaryEntry, DictionaryEntryRepository>();
             var app = builder.Build();
 
             // Bật Swagger UI nếu đang ở môi trường Development

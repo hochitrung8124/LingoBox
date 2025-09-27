@@ -4373,9 +4373,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\LingoBox\\API\\DingoBox\\DingoBox.csproj",
-      "projectName": "DingoBox",
-      "projectPath": "D:\\Study\\LingoBox\\API\\DingoBox\\DingoBox.csproj",
+      "projectUniqueName": "D:\\Study\\LingoBox\\API\\DingoBox\\API.csproj",
+      "projectName": "API",
+      "projectPath": "D:\\Study\\LingoBox\\API\\DingoBox\\API.csproj",
       "packagesPath": "C:\\Users\\ChiTrung\\.nuget\\packages\\",
       "outputPath": "D:\\Study\\LingoBox\\API\\DingoBox\\obj\\",
       "projectStyle": "PackageReference",
